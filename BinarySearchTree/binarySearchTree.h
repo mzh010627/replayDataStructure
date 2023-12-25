@@ -27,4 +27,4 @@ int binarySearchTreeInit(BinarySearchTree **pBstree);
 /* 二叉搜索树的插入 */
 int binarySearchTreeInsert(BinarySearchTree *pBstree, ELEMENTTYPE val);
 
-#endif  //__BINARY_SEARCH_TREE_H_
+#endif  //__BINARY_SEARCH_TREE_H_ 
